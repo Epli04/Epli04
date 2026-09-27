@@ -1,99 +1,99 @@
 <div align="center">
 
-# Hi, I'm Muhammed Epli 👋
+# Merhaba, ben Muhammed Epli 👋
 
-### Mechatronics & Computer Engineering Student | AI • Computer Vision • Autonomous Systems • Embedded Software
+### Mekatronik ve Bilgisayar Mühendisliği Öğrencisi | Yapay Zeka • Bilgisayarlı Görü • Otonom Sistemler • Gömülü Yazılım
 
-I build intelligent systems that connect **software, perception and real-world hardware**.
+**Yazılımı, algı sistemlerini ve gerçek dünya donanımlarını bir araya getiren akıllı sistemler geliştiriyorum.**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Hakkımda
 
-- 🎓 Double major student in **Mechatronics Engineering** and **Computer Engineering** at Bursa Technical University
-- 🤖 Focused on **Artificial Intelligence, Machine Learning and Deep Learning**
-- 👁️ Interested in **Computer Vision, autonomous systems and real-time perception**
-- ⚙️ Working with **embedded systems, robotics, UAVs and underwater vehicles**
-- 🧠 I enjoy taking projects from algorithms and simulation to real hardware
-- 🚀 Actively developing engineering projects for research, competitions and real-world applications
+- 🎓 Bursa Teknik Üniversitesi'nde **Mekatronik Mühendisliği** ve **Bilgisayar Mühendisliği** çift anadal öğrencisiyim.
+- 🤖 **Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme** alanlarına odaklanıyorum.
+- 👁️ **Bilgisayarlı Görü, otonom sistemler ve gerçek zamanlı algılama** konularıyla ilgileniyorum.
+- ⚙️ **Gömülü sistemler, robotik, insansız hava araçları ve su altı araçları** üzerine çalışmalar yapıyorum.
+- 🧠 Projeleri yalnızca algoritma seviyesinde bırakmayıp simülasyondan gerçek donanıma taşımayı seviyorum.
+- 🚀 Araştırma, yarışma ve gerçek dünya uygulamalarına yönelik mühendislik projeleri geliştiriyorum.
 - 📍 Türkiye
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Üzerinde Çalıştığım Alanlar
 
-### 🛩️ Autonomous UAV Systems
-Developing software for autonomous UAV missions, including computer vision, target tracking, communication, mission logic and simulation.
+### 🛩️ Otonom İHA Sistemleri
+Bilgisayarlı görü, hedef takibi, haberleşme, görev mantığı ve simülasyon süreçlerini kapsayan otonom İHA yazılımları geliştiriyorum.
 
-**Technologies:** Python • OpenCV • ArduPilot • MAVLink • Gazebo • Raspberry Pi
+**Kullandığım Teknolojiler:** Python • OpenCV • ArduPilot • MAVLink • Gazebo • Raspberry Pi
 
-### 🌊 Autonomous ROV Systems
-Working on vision-assisted underwater vehicle software with heading/depth control, telemetry, mission management and fail-safe logic.
+### 🌊 Otonom ROV Sistemleri
+Görüntü işleme destekli su altı araçlarında yön ve derinlik kontrolü, telemetri, görev yönetimi ve güvenli çalışma mantıkları üzerine çalışıyorum.
 
-**Technologies:** Python • OpenCV • PID Control • FastAPI • WebSocket • Raspberry Pi
+**Kullandığım Teknolojiler:** Python • OpenCV • PID Kontrol • FastAPI • WebSocket • Raspberry Pi
 
-### 🔬 Deep Learning for Biomedical Imaging
-Developing deep-learning-based methods for classifying dentin structures from microscopy images.
+### 🔬 Biyomedikal Görüntülemede Derin Öğrenme
+Mikroskopi görüntülerinden dentin yapılarının sınıflandırılması için derin öğrenme tabanlı yöntemler geliştiriyorum.
 
-**Repository:** [dentin-porosity-classification](https://github.com/Epli04/dentin-porosity-classification)
+**Proje:** [dentin-porosity-classification](https://github.com/Epli04/dentin-porosity-classification)
 
-### 🛡️ Computer Vision & Defense Systems
-Building computer-vision-based detection and tracking systems for autonomous defense-oriented applications.
+### 🛡️ Bilgisayarlı Görü ve Otonom Savunma Sistemleri
+Otonom sistemlerde kullanılmak üzere bilgisayarlı görü tabanlı nesne tespiti ve takip sistemleri geliştiriyorum.
 
-**Repository:** [karayel-hss](https://github.com/Epli04/karayel-hss)
+**Proje:** [karayel-hss](https://github.com/Epli04/karayel-hss)
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Teknoloji Yığınım
 
-### Languages
+### Programlama Dilleri
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" />
 </p>
 
-### AI & Computer Vision
+### Yapay Zeka ve Bilgisayarlı Görü
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-### Robotics, Embedded & Backend
+### Robotik, Gömülü Sistemler ve Arka Uç
 <p>
   <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ubuntu,fastapi" />
 </p>
 
-### Tools
+### Araçlar
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker" />
 </p>
 
 ---
 
-## 🎯 Areas of Interest
+## 🎯 İlgi Alanlarım
 
 ```text
-Artificial Intelligence        Computer Vision
-Machine Learning               Deep Learning
-Autonomous Systems             Robotics
-Embedded Systems               UAV / ROV Software
-Simulation                     Real-Time Systems
+Yapay Zeka                  Bilgisayarlı Görü
+Makine Öğrenmesi            Derin Öğrenme
+Otonom Sistemler            Robotik
+Gömülü Sistemler            İHA / ROV Yazılımları
+Simülasyon                  Gerçek Zamanlı Sistemler
 ```
 
 ---
 
-## 📌 Selected Projects
+## 📌 Öne Çıkan Projeler
 
-| Project | Description | Main Technologies |
+| Proje | Açıklama | Temel Teknolojiler |
 |---|---|---|
-| **Autonomous UAV Software** | Mission control, target tracking, communication and autonomous flight logic | Python, OpenCV, ArduPilot, MAVLink |
-| **Autonomous ROV Software** | Underwater perception, PID-based control, telemetry and mission management | Python, OpenCV, FastAPI, Raspberry Pi |
-| **Dentin Structure Classification** | Deep-learning-based biomedical image classification | Python, Deep Learning, Computer Vision |
-| **Karayel HSS** | Computer-vision-based detection and tracking system | Python, OpenCV, AI |
+| **Otonom İHA Yazılımı** | Görev kontrolü, hedef takibi, haberleşme ve otonom uçuş mantığı | Python, OpenCV, ArduPilot, MAVLink |
+| **Otonom ROV Yazılımı** | Su altı algılama, PID tabanlı kontrol, telemetri ve görev yönetimi | Python, OpenCV, FastAPI, Raspberry Pi |
+| **Dentin Yapısı Sınıflandırma** | Derin öğrenme tabanlı biyomedikal görüntü sınıflandırma | Python, Derin Öğrenme, Bilgisayarlı Görü |
+| **Karayel HSS** | Bilgisayarlı görü tabanlı tespit ve takip sistemi | Python, OpenCV, Yapay Zeka |
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
 
@@ -108,20 +108,20 @@ Simulation                     Real-Time Systems
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Benimle İletişime Geç
 
-I'm interested in collaborating on projects involving:
+Aşağıdaki alanlarda geliştirilen projelerde iş birliğine açığım:
 
-**AI • Computer Vision • Autonomous Systems • Robotics • Embedded Software**
+**Yapay Zeka • Bilgisayarlı Görü • Otonom Sistemler • Robotik • Gömülü Yazılım**
 
-📫 **Email:** [muhammedepli02@gmail.com](mailto:muhammedepli02@gmail.com)
+📫 **E-posta:** [muhammedepli02@gmail.com](mailto:muhammedepli02@gmail.com)
 
 ---
 
 <div align="center">
 
-### Build. Test. Improve. Repeat. 🚀
+### Geliştir. Test Et. İyileştir. Tekrarla. 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=Epli04)
+![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=Epli04)
 
 </div>
