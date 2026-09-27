@@ -1,10 +1,19 @@
 <div align="center">
 
-# Merhaba, ben Muhammed Epli 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0D1117,50:161B22,100:1F6FEB&text=Muhammed%20Epli&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Mekatronik%20ve%20Bilgisayar%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi&descSize=16&descAlignY=58" />
 
-### Mekatronik ve Bilgisayar Mühendisliği Öğrencisi | Yapay Zeka • Bilgisayarlı Görü • Otonom Sistemler • Gömülü Yazılım
+### Yapay Zeka • Bilgisayarlı Görü • Otonom Sistemler • Gömülü Yazılım
 
-**Yazılımı, algı sistemlerini ve gerçek dünya donanımlarını bir araya getiren akıllı sistemler geliştiriyorum.**
+Yazılımı, algı sistemlerini ve gerçek dünya donanımlarını bir araya getiren akıllı sistemler geliştiriyorum.
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammed-epli-40731a2b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Epli-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muhammedepli02@gmail.com">
+    <img src="https://img.shields.io/badge/E--posta-muhammedepli02%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -27,12 +36,12 @@
 ### 🛩️ Otonom İHA Sistemleri
 Bilgisayarlı görü, hedef takibi, haberleşme, görev mantığı ve simülasyon süreçlerini kapsayan otonom İHA yazılımları geliştiriyorum.
 
-**Kullandığım Teknolojiler:** Python • OpenCV • ArduPilot • MAVLink • Gazebo • Raspberry Pi
+**Teknolojiler:** Python • OpenCV • ArduPilot • MAVLink • Gazebo • Raspberry Pi
 
 ### 🌊 Otonom ROV Sistemleri
 Görüntü işleme destekli su altı araçlarında yön ve derinlik kontrolü, telemetri, görev yönetimi ve güvenli çalışma mantıkları üzerine çalışıyorum.
 
-**Kullandığım Teknolojiler:** Python • OpenCV • PID Kontrol • FastAPI • WebSocket • Raspberry Pi
+**Teknolojiler:** Python • OpenCV • PID Kontrol • FastAPI • WebSocket • Raspberry Pi
 
 ### 🔬 Biyomedikal Görüntülemede Derin Öğrenme
 Mikroskopi görüntülerinden dentin yapılarının sınıflandırılması için derin öğrenme tabanlı yöntemler geliştiriyorum.
@@ -97,31 +106,28 @@ Simülasyon                  Gerçek Zamanlı Sistemler
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Epli04&show_icons=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epli04&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Epli04&show_icons=true&hide_border=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epli04&layout=compact&hide_border=true&theme=github_dark" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Epli04&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Epli04&hide_border=true&theme=github-dark-blue" />
 
 </div>
 
 ---
 
-## 🤝 Benimle İletişime Geç
+## 🤝 İletişim
 
-Aşağıdaki alanlarda geliştirilen projelerde iş birliğine açığım:
+**Yapay Zeka • Bilgisayarlı Görü • Otonom Sistemler • Robotik • Gömülü Yazılım** alanlarında geliştirilen projelerde iş birliğine açığım.
 
-**Yapay Zeka • Bilgisayarlı Görü • Otonom Sistemler • Robotik • Gömülü Yazılım**
-
-📫 **E-posta:** [muhammedepli02@gmail.com](mailto:muhammedepli02@gmail.com)
+- 🔗 **LinkedIn:** [Muhammed Epli](https://www.linkedin.com/in/muhammed-epli-40731a2b9/)
+- 📫 **E-posta:** [muhammedepli02@gmail.com](mailto:muhammedepli02@gmail.com)
 
 ---
 
 <div align="center">
 
-### Geliştir. Test Et. İyileştir. Tekrarla. 🚀
-
-![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=Epli04)
+![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=Epli04&style=flat-square)
 
 </div>
